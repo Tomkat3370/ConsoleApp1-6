@@ -8,7 +8,7 @@ namespace ConsoleAppProject.App06
     /// for Rock-Paper-Scissors game
     /// </summary>
     /// <author>
-    /// Unkown ??
+    /// Kate Gordon
     /// </author>
     public static class GameImages
     {
